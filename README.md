@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I have a background in physics (Iran's National Physics Olympiad Silver medalist)
-- 📙 Feel free to check out my [resume](https://github.com/hgoli02/hgoli02.github.io/blob/master/CV.pdf)
+Feel free to take a look at my resume by clicking on the following link: https://github.com/hgoli02/hgoli02.github.io/blob/master/CV.pdf.
+
 ## :floppy_disk: Programming Languages
 ![Python](https://img.shields.io/badge/-Python-yellowgreen) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)![R](https://img.shields.io/badge/-R-red) ![Verilog](https://img.shields.io/badge/-Verilog-black) ![Java](https://img.shields.io/badge/-Java-orange) 
 ## :rocket: Technologies and Tools
