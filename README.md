@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Feel free to take a look at my resume by clicking [Here!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
 ## 💻 Programming Languages
-[![Python Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg)](https://www.python.org){:height="30px" width="30px"} 
+[![Python Logo]<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python Logo" width="30" height="30">
 [![R Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg)](https://www.r-project.org){:height="30px" width="30px"} 
 [![Golang Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg)](https://golang.org){:height="30px" width="30px"} 
 [![Java Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg)](https://www.java.com){:height="30px" width="30px"} 
