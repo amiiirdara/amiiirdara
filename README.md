@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Feel free to take a look at my resume by clicking [Here!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
 ## 💻 Programming Languages
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg" alt="R Logo" width="30" height="30">
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python Logo" width="30" height="30">
+](https://camo.githubusercontent.com/1b3a2e7fd62b249eb57ef34cf3fcfa596f2aca1dbc49c98ebdb029c483f2b3f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d79656c6c6f77677265656e)<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg" alt="R Logo" width="30" height="30">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg" alt="Golang Logo" width="30" height="30">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="Java Logo" width="30" height="30">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kotlin.svg" alt="Kotlin Logo" width="30" height="30">
