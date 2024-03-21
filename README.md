@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 -->
 Feel free to take a look at my resume by clicking [Here!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
-## 💻 Programming Languages[![Python Logo](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)](https://www.python.org)
+## 💻 Programming Languages
+
+[![Python Logo](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![R Logo](https://img.shields.io/badge/-R-red?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
 [![Golang Logo](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&logoColor=white)](https://golang.org)
 [![Java Logo](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)](https://www.java.com)
