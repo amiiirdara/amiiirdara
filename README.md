@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 -->
 Feel free to take a look at my resume by clicking [Here!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
-## 💻 Programming Languages
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python Logo" width="30" height="30">
-](https://camo.githubusercontent.com/1b3a2e7fd62b249eb57ef34cf3fcfa596f2aca1dbc49c98ebdb029c483f2b3f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d79656c6c6f77677265656e)<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg" alt="R Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg" alt="Golang Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="Java Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kotlin.svg" alt="Kotlin Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="C# Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="C++ Logo" width="30" height="30">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elixir.svg" alt="Elixir Logo" width="30" height="30">
+## 💻 Programming Languages[![Python Logo](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![R Logo](https://img.shields.io/badge/-R-red?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
+[![Golang Logo](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&logoColor=white)](https://golang.org)
+[![Java Logo](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![Kotlin Logo](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![C# Logo](https://img.shields.io/badge/-C%23-purple?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Elixir Logo](https://img.shields.io/badge/-Elixir-purple?style=flat&logo=elixir&logoColor=white)](https://elixir-lang.org)
 
 ## 🛠️ Technologies and Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
