@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Feel free to take a look at my resume by clicking [HERE](https://github.com/hgoli02/hgoli02.github.io/blob/master/CV.pdf).
+Feel free to take a look at my resume by clicking [here](https://github.com/amiiirdara/amiiirdara/blob/master/CV.pdf)!
 
 ## :floppy_disk: Programming Languages
 ![Python](https://img.shields.io/badge/-Python-yellowgreen) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)![R](https://img.shields.io/badge/-R-red) ![Verilog](https://img.shields.io/badge/-Verilog-black) ![Java](https://img.shields.io/badge/-Java-orange) 
