@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📝 Feel free to take a look at my [resume](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)!
+- 📝 Feel free to take a look at my [resume!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
 ## 💻 Programming Languages
 
