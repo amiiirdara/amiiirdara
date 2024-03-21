@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 [![Spark Logo](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)](https://spark.apache.org)
 [![GYM Logo](https://img.shields.io/badge/GYM-%23FFC107.svg?style=for-the-badge&logo=OpenAI%20GYM&logoColor=white)](https://gym.openai.com)
 ---
+[![SQL Logo](https://img.shields.io/badge/SQL-%230070D1.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Django Logo](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Kafka Logo](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)](https://kafka.apache.org)
 [![RabbitMQ Logo](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)](https://www.rabbitmq.com)
 [![Redis Logo](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://redis.io)
