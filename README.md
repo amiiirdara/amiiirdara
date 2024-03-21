@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the Sharif University of Technology.
 
-I really enjoy working with my dear friend **computer**. In particular, I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, for example, **NLP**, **Computational Neuroscience**, **Computational Social Choice**, **Computer Vision**, **HCI**, and **CSCW**.
+I really enjoy working with my dear friend **Computer**. In particular, I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, for example, **NLP**, **Computational Neuroscience**, **Computational Social Choice**, **Computer Vision**, **HCI**, and **CSCW**.
 It's worth mentioning that I also enjoy studying and learning about **Game Theory**!
 
 <!--
