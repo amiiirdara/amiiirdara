@@ -1,7 +1,8 @@
 ### Hi everyone! 👋 I am Amir Mahdi Daraei 
 
 I'm a Computer Engineering student at the Sharif University of Technology.
-I like my good friend ##computer
+I like my good friend 
+## computer
 and I enjoy working with it in general, but in particular I have to mention that I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, for example NLP, Computational Neuroscience, Computational Social Choice, Computer Vision, HCI and CSCW.
 it should be mentioned that Game Theory is another field that I really like to study and learn about!
 
