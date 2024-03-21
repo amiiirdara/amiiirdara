@@ -39,7 +39,11 @@ Feel free to take a look at my resume by clicking [Here!](https://github.com/ami
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 [![Spark Logo](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)](https://spark.apache.org)
 [![GYM Logo](https://img.shields.io/badge/GYM-%23FFC107.svg?style=for-the-badge&logo=OpenAI%20GYM&logoColor=white)](https://gym.openai.com)
+## 
 [![Kafka Logo](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)](https://kafka.apache.org)
+[![RabbitMQ Logo](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)](https://www.rabbitmq.com)
+[![Redis Logo](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://redis.io)
+[![Elasticsearch Logo](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)](https://www.elastic.co/products/elasticsearch)
 [![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
 [![Docker Logo](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes Logo](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io)
