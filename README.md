@@ -1,24 +1,10 @@
-### Hi everyone! 👋😄 I am Amir Mahdi Daraei 
+### I am Amir Mahdi Daraei 
 
 I'm a Computer Engineering student at the Sharif University of Technology.
 
 I really enjoy working with my dear friend **Computer**. In particular, I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, for example, **NLP**, **Computational Neuroscience**, **Computational Social Choice**, **Computer Vision**, **HCI**, and **CSCW**.
 It's worth mentioning that I also enjoy studying and learning about **Game Theory**!
 
-<!--
-**hgoli02/hgoli02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I have a background in physics (Iran's National Physics Olympiad Silver medalist)
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 💡 Feel free to take a look at my [Resume!](https://github.com/amiiirdara/amiiirdara/blob/main/AmirMahdiDaraei_CV.pdf)
 
 ## 💻 Programming Languages
@@ -32,7 +18,7 @@ Here are some ideas to get you started:
 [![C++ Logo](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Elixir Logo](https://img.shields.io/badge/-Elixir-purple?style=flat&logo=elixir&logoColor=white)](https://elixir-lang.org)
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
