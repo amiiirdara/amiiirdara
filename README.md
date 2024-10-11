@@ -30,6 +30,7 @@ It's worth mentioning that I also enjoy studying and learning about **Game Theor
 [![Docker Logo](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes Logo](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io)
 [![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
+[![Arch Logo](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![SQL Logo](https://img.shields.io/badge/SQL-%230070D1.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
  
