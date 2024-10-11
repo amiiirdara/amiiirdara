@@ -20,12 +20,9 @@ It's worth mentioning that I also enjoy studying and learning about **Game Theor
 
 ## 🛠️ Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-[![Spark Logo](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)](https://spark.apache.org)
-[![GYM Logo](https://img.shields.io/badge/GYM-%23FFC107.svg?style=for-the-badge&logo=OpenAI%20GYM&logoColor=white)](https://gym.openai.com)
 ---
 [![Django Logo](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Kafka Logo](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)](https://kafka.apache.org)
