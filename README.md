@@ -1,11 +1,11 @@
-### I am Amir Mahdi Daraei 
+### I am Amir Mahdi Daraie 
 
 I'm a Computer Engineering student at the Sharif University of Technology.
 
 I really enjoy working with my dear friend **Computer**. In particular, I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, for example, **Computational Neuroscience**, **BCI**, **Computational Social Choice**, **NLP**, **AI for Software**, **Computer Vision**, **HCI**, and **CSCW**.
 It's worth mentioning that I also enjoy studying and learning about **Game Theory**!
 
-- 💡 Feel free to take a look at my [Resume](https://github.com/amiiirdara/amiiirdara/blob/main/AmirmahdiDaraeiCV.pdf)!
+- 💡 Feel free to take a look at my [Resume](https://github.com/amiiirdara/amiiirdara/blob/main/AmirmahdiDaraieCV.pdf)!
 
 ## 💻 Programming Languages
 
